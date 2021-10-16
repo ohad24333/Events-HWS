@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events3Bank.Librery", "Events3Bank.Librery.csproj", "{38460911-1D99-485B-B4E4-EF7F7EECEA0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events3Bank.Ui", "..\Events3Bank Solution\Events3Bank.Ui\Events3Bank.Ui.csproj", "{B8D562D9-7133-40DD-8F37-72E08E9D394D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38460911-1D99-485B-B4E4-EF7F7EECEA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38460911-1D99-485B-B4E4-EF7F7EECEA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38460911-1D99-485B-B4E4-EF7F7EECEA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38460911-1D99-485B-B4E4-EF7F7EECEA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D562D9-7133-40DD-8F37-72E08E9D394D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D562D9-7133-40DD-8F37-72E08E9D394D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D562D9-7133-40DD-8F37-72E08E9D394D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D562D9-7133-40DD-8F37-72E08E9D394D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A370B3B9-4F1A-424D-A8DE-CDA2B6FFB373}
+	EndGlobalSection
+EndGlobal

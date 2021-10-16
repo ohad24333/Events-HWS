@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Events3Bank.Ui/1.0.0": {
+        "dependencies": {
+          "Events3Bank.Librery": "1.0.0"
+        },
+        "runtime": {
+          "Events3Bank.Ui.dll": {}
+        }
+      },
+      "Events3Bank.Librery/1.0.0": {
+        "runtime": {
+          "Events3Bank.Librery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Events3Bank.Ui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Events3Bank.Librery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

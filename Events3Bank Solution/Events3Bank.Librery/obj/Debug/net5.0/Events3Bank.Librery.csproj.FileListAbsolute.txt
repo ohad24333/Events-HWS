@@ -1,0 +1,12 @@
+C:\Users\ohad2\source\repos\Events3Bank.Librery\obj\Debug\net5.0\Events3Bank.Librery.csproj.AssemblyReference.cache
+C:\Users\ohad2\source\repos\Events3Bank.Librery\obj\Debug\net5.0\Events3Bank.Librery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohad2\source\repos\Events3Bank.Librery\obj\Debug\net5.0\Events3Bank.Librery.AssemblyInfoInputs.cache
+C:\Users\ohad2\source\repos\Events3Bank.Librery\obj\Debug\net5.0\Events3Bank.Librery.AssemblyInfo.cs
+C:\Users\ohad2\source\repos\Events3Bank.Librery\obj\Debug\net5.0\Events3Bank.Librery.csproj.CoreCompileInputs.cache
+C:\Users\ohad2\source\repos\Events3Bank.Librery\bin\Debug\net5.0\Events3Bank.Librery.deps.json
+C:\Users\ohad2\source\repos\Events3Bank.Librery\bin\Debug\net5.0\Events3Bank.Librery.dll
+C:\Users\ohad2\source\repos\Events3Bank.Librery\bin\Debug\net5.0\ref\Events3Bank.Librery.dll
+C:\Users\ohad2\source\repos\Events3Bank.Librery\bin\Debug\net5.0\Events3Bank.Librery.pdb
+C:\Users\ohad2\source\repos\Events3Bank.Librery\obj\Debug\net5.0\Events3Bank.Librery.dll
+C:\Users\ohad2\source\repos\Events3Bank.Librery\obj\Debug\net5.0\ref\Events3Bank.Librery.dll
+C:\Users\ohad2\source\repos\Events3Bank.Librery\obj\Debug\net5.0\Events3Bank.Librery.pdb
